@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "terebi"
-version = "0.3.0-1"
+version = "0.4.0-1"
 -- LuaDist source
 source = {
-  tag = "0.3.0-1",
+  tag = "0.4.0-1",
   url = "git://github.com/LuaDist-testing/terebi.git"
 }
 -- Original source
 -- source = {
 --    url = "git://github.com/oniietzschan/terebi",
---    tag = "0.3.0",
+--    tag = "0.4.0",
 -- }
 description = {
   summary = "Graphics scaling library for Love2D.",
