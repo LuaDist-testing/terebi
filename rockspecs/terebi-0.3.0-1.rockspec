@@ -1,17 +1,9 @@
--- This file was automatically generated for the LuaDist project.
-
 package = "terebi"
-version = "0.2.0-1"
--- LuaDist source
+version = "0.3.0-1"
 source = {
-  tag = "0.2.0-1",
-  url = "git://github.com/LuaDist-testing/terebi.git"
+   url = "git://github.com/oniietzschan/terebi",
+   tag = "0.3.0",
 }
--- Original source
--- source = {
---   url = "https://github.com/oniietzschan/terebi/archive/0.2.0.tar.gz",
---   dir = "terebi-0.2.0"
--- }
 description = {
   summary = "Graphics scaling library for Love2D.",
   detailed = "A simple library to handle pixel-perfect scaling of window content in Love2D.",
